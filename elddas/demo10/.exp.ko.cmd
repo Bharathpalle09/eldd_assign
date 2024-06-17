@@ -1,0 +1,1 @@
+savedcmd_/home/bharat/Desktop/elddas/demo10/exp.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/bharat/Desktop/elddas/demo10/exp.ko /home/bharat/Desktop/elddas/demo10/exp.o /home/bharat/Desktop/elddas/demo10/exp.mod.o;  make -f ./arch/x86/Makefile.postlink /home/bharat/Desktop/elddas/demo10/exp.ko

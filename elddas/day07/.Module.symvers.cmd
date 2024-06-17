@@ -1,0 +1,1 @@
+savedcmd_/home/bharat/Desktop/elddas/day07/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/bharat/Desktop/elddas/day07/Module.symvers -T /home/bharat/Desktop/elddas/day07/modules.order -i Module.symvers -e 
